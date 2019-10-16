@@ -1,0 +1,1 @@
+/home/abdul/Desktop/chapter\ 7\ (part2)/file-module-lib/target/debug/libfile_module.rlib: /home/abdul/Desktop/chapter\ 7\ (part2)/file-module-lib/src/front_of_house.rs /home/abdul/Desktop/chapter\ 7\ (part2)/file-module-lib/src/lib.rs
