@@ -1,0 +1,7 @@
+[package]
+name = "task20"
+version = "0.1.0"
+authors = ["abdur"]
+edition = "2018"
+
+[dependencies]
